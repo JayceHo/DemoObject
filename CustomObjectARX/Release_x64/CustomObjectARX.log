@@ -1,0 +1,10 @@
+﻿  SpecialEntity.cpp
+  SpecialEntityCmd.cpp
+  SpecialEntityModule.cpp
+  stdafx.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library D:\ExampleCPP\CustomObjectARX\CustomObjectARX\Release_x64\CustomObjectARX_23.1_16.lib and object D:\ExampleCPP\CustomObjectARX\CustomObjectARX\Release_x64\CustomObjectARX_23.1_16.exp
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  Finished generating code
+  CustomObjectARX.vcxproj -> D:\ExampleCPP\CustomObjectARX\CustomObjectARX\Release_x64\CustomObjectARX_23.1_16.dll
